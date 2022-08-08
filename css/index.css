@@ -1,0 +1,49 @@
+
+footer{
+    background-color: rgba(0, 0, 0, 0.349);
+    color: ghostwhite;
+    font-family: serif,'Times New Roman';
+    text-align: center;
+    font-size: x-large;
+
+}
+
+
+
+.datos{
+    text-align: center;
+    background-color: rgba(1, 100, 167, 0.644);
+    color: ghostwhite;
+    font-family: serif,'Times New Roman';
+}
+
+.bienvenida{
+    text-align: center;
+    font-size: 400%;
+    background-color: rgba(59, 96, 165, 0.212);
+    font-family: serif,'Times New Roman';
+}
+
+.formulario{
+    background-color: rgba(0, 139, 139, 0.336);
+    font-family: serif,'Times New Roman';
+    color: black;
+
+
+}
+
+.iconos{ 
+    text-align: center;
+}
+
+
+
+.pie{
+    color: cadetblue;
+}
+
+.datos{
+    text-align: center;
+    background-color: rgba(0, 0, 139, 0.363);
+    color: black;
+}

@@ -1,0 +1,12 @@
+.imagen{
+    background-color: rgb(87, 103, 104);
+}
+form{
+    text-align: center;
+    background-color: rgba(29, 105, 105, 0.61);
+}
+.datos{
+    text-align: center;
+    background-color: rgba(0, 100, 139, 0.712);
+    color: black;
+}

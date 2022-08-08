@@ -1,0 +1,39 @@
+.campus{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(0, 139, 139, 0.61);
+    color: black;
+    
+}
+.historia{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(100, 148, 237, 0.582);
+    color: black;
+}
+.pie{
+    text-align: center;
+    background-color: rgba(255, 228, 196, 0.822);
+    color: rgba(0, 255, 255, 0.507);
+}
+.mision{
+    background-color: rgba(255, 127, 80, 0.5);
+    color: black;
+    font-size: 300%;
+    text-align: center;
+
+}
+.formulario{
+    background-color: rgba(0, 139, 139, 0.336);
+    font-family: serif,'Times New Roman';
+    color: black;
+
+
+}
+.datos{
+    text-align: center;
+    background-color: rgba(0, 0, 139, 0.363);
+    color: black;
+}
